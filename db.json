@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctor's Appointment",
+      "day": "March 1st at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Palupad Tabanog",
+      "day": "April 1st at 2:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Walk the dog",
+      "day": "December 17th 2021 ",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
